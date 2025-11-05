@@ -1,0 +1,38 @@
+{
+  "action": {
+    "back": "Back",
+    "sort": "Sort by rating"
+  },
+  "app": {
+    "created": "Created with",
+    "name": "teevee",
+    "title": "Discover your next favorite TV show"
+  },
+  "basic": {
+    "present": "Present",
+    "unknown": "Unknown"
+  },
+  "episode": {
+    "name": "Episode | Episodes"
+  },
+  "not": {
+    "applicable": "N/A",
+    "found": "No shows found",
+    "summary": "No summary available"
+  },
+  "search": {
+    "name": "Search",
+    "placeholder": "Search TV shows..."
+  },
+  "show": {
+    "genre": "Genre | Genres",
+    "language": "Language",
+    "name": "Show",
+    "network": "Network",
+    "rating": "Rating",
+    "runtime": "Runtime",
+    "season": "Season | Seasons",
+    "status": "Status",
+    "year": "Year | Years"
+  }
+}
